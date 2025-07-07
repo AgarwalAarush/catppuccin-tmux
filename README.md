@@ -15,6 +15,8 @@
   <img src="./assets/preview.webp"/>
 </p>
 
+# ALL CREDITS TO OMERXX - THIS IS SIMPLY MY PERSONAL VERSION
+
 ## Content
 
 1. [Themes](#themes)
